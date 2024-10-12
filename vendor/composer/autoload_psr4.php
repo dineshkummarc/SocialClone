@@ -76,7 +76,7 @@ return array(
     'Mhetreramesh\\Flysystem\\' => array($vendorDir . '/mhetreramesh/flysystem-backblaze/src'),
     'League\\OAuth1\\Client\\' => array($vendorDir . '/league/oauth1-client/src'),
     'League\\MimeTypeDetection\\' => array($vendorDir . '/league/mime-type-detection/src'),
-    'League\\Glide\\' => array($vendorDir . '/league/glide/src', $vendorDir . '/league/glide-symfony/src', $vendorDir . '/league/glide-laravel/src'),
+    'League\\Glide\\' => array($vendorDir . '/league/glide/src', $vendorDir . '/league/glide-laravel/src', $vendorDir . '/league/glide-symfony/src'),
     'League\\Flysystem\\AwsS3v3\\' => array($vendorDir . '/league/flysystem-aws-s3-v3/src'),
     'League\\Flysystem\\' => array($vendorDir . '/league/flysystem/src'),
     'League\\CommonMark\\' => array($vendorDir . '/league/commonmark/src'),
